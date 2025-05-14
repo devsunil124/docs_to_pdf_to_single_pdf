@@ -3,4 +3,4 @@ docs_to_merge/*
 converted_pdfs/*
 
 # Ignore specific file in temp folder
-temp/hi.txt
+/temp/hi.txt
