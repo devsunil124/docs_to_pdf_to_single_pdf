@@ -1,0 +1,6 @@
+# Ignore all files in these folders
+docs_to_merge/*
+converted_pdfs/*
+
+# Ignore specific file in temp folder
+temp/hi.txt
